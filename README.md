@@ -70,4 +70,5 @@ class Solution {
 ```
 
 # References :
-https://www.youtube.com/watch?v=vH-o_6rwCEE
+1. https://www.youtube.com/watch?v=vH-o_6rwCEE
+2. https://leetcode.com/problems/sort-list/discuss/46714/Java-merge-sort-solution
